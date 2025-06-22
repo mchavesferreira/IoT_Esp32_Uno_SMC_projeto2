@@ -2,11 +2,11 @@
 
 
 // Definições da rede WiFi
-const char* ssid = "Isaweb_1";  
-const char* password = "julia3103";
+const char* ssid = "";  
+const char* password = "";
 
-const char* ssid2 = "Isaweb2";       // Nome da segunda rede Wi-Fi
-const char* password2 = "julia3103"; // Senha da segunda rede Wi-Fi
+const char* ssid2 = ";       // Nome da segunda rede Wi-Fi
+const char* password2 = ""; // Senha da segunda rede Wi-Fi
 
 const char* nomedevice = "esp32_M0007";
 
