@@ -5,6 +5,8 @@ Este repositorio apresenta um exemplo de IoT onde uma pagina web armazenada em u
 
 A comunicação entre eles é realizada através dos pinos Tx2 e RX2 do ESP32 e os pinos 0-Rx e 1-Tx do Arduino Uno. Baudrate 9600
 
+[mchavesferreira/cafeteiraesp32uno](http://monitor.rpiot.com.br/aula/cafeteiraesp32uno/)  Pagina explicando funcionamento
+
 
 Simulador https://wokwi.com/projects/434501202750110721   apresenta o código rodando para a Cafeteira no Atmega 328P
 
