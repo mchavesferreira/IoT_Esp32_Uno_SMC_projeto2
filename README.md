@@ -21,3 +21,6 @@ Simulador https://wokwi.com/projects/434501202750110721   apresenta o código ro
 
 <img src=circuito.jpg>
 Vista geral da montagem
+
+
+<a href= https://youtu.be/Taf_cI7LG2E><img src=video.png border=0></a>
