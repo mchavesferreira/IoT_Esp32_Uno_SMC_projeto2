@@ -1,9 +1,10 @@
 # Exemplo de projeto 2 - Cafeteria com wifi
 
+Este repositório apresenta um exemplo de aplicação de **Internet das Coisas (IoT)**, no qual uma página web hospedada diretamente em um **ESP32** atua como interface gráfica para interação com um **Arduino UNO**, que executa uma **máquina de estados** programada no microcontrolador **ATmega328P**.
 
-Este repositorio apresenta um exemplo de IoT onde uma pagina web armazenada em um ESP32 fará o papel de interface web para um Arquino UNO rodando uma máquina de estados em um Atmega 328P.
+A comunicação entre o ESP32 e o Arduino UNO ocorre por meio de interface serial, utilizando os pinos **TX2 e RX2** do ESP32 conectados, respectivamente, aos pinos **0 (RX)** e **1 (TX)** do Arduino UNO. A taxa de transmissão configurada é de **9600 bps**.
 
-A comunicação entre eles é realizada através dos pinos Tx2 e RX2 do ESP32 e os pinos 0-Rx e 1-Tx do Arduino Uno. Baudrate 9600
+
 
 [mchavesferreira/cafeteiraesp32uno](http://monitor.rpiot.com.br/aula/cafeteiraesp32uno/)  Pagina explicando funcionamento
 
