@@ -4,7 +4,7 @@ Este repositório apresenta um exemplo de aplicação de **Internet das Coisas (
 
 A comunicação entre o ESP32 e o Arduino UNO ocorre por meio de interface serial, utilizando os pinos **TX2 e RX2** do ESP32 conectados, respectivamente, aos pinos **0 (RX)** e **1 (TX)** do Arduino UNO. A taxa de transmissão configurada é de **9600 bps**.
 
-
+## Assista ao vídeo e saiba mais:  https://youtu.be/Taf_cI7LG2E
 
 [mchavesferreira/cafeteiraesp32uno](http://monitor.rpiot.com.br/aula/cafeteiraesp32uno/)  Pagina explicando funcionamento
 
