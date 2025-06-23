@@ -19,8 +19,10 @@ Simulador https://wokwi.com/projects/434501202750110721   apresenta o código ro
 <br> Simulador https://wokwi.com/projects/434501202750110721
 
 
-<img src=circuito.jpg>
+<img src=circuito.jpg><BR>
+
 Vista geral da montagem
 
 
 <a href= https://youtu.be/Taf_cI7LG2E><img src=video.png border=0></a>
+<BR>  Video youtube sobre este repositorio
